@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ludem Dare", "Ludem Dare.csproj", "{0D94628E-8AE4-7F43-B4A5-67D0E9B58640}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ludem Dare.Editor", "Ludem Dare.Editor.csproj", "{07111712-FBB0-A3BF-0A7F-B0CEDF43D0C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D94628E-8AE4-7F43-B4A5-67D0E9B58640}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D94628E-8AE4-7F43-B4A5-67D0E9B58640}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D94628E-8AE4-7F43-B4A5-67D0E9B58640}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D94628E-8AE4-7F43-B4A5-67D0E9B58640}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07111712-FBB0-A3BF-0A7F-B0CEDF43D0C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07111712-FBB0-A3BF-0A7F-B0CEDF43D0C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07111712-FBB0-A3BF-0A7F-B0CEDF43D0C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07111712-FBB0-A3BF-0A7F-B0CEDF43D0C5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
